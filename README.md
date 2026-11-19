@@ -1,8 +1,8 @@
-# news-image-20261118
+# news-image-20261118-front-page
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
-[![rank](https://make.fun/badge/news-image-20261118/Joeinndev/news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
-[![reward](https://make.fun/badge/news-image-20261118/Joeinndev/news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/Joeinndev/news-image-20261118-front-page/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/Joeinndev/news-image-20261118-front-page/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 One 1024×1024 front page summing up the world news of Wednesday 18 November 2026: Iran's strikes on Gulf targets, Xi greeting Trump at APEC in Shenzhen, and stories from every region. `news.html` is the source, `render.sh` renders it to `entry.png`, and `main.ts` writes the image to `/output/entry.png`.
 
